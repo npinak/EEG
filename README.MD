@@ -8,8 +8,8 @@ EEG Signal-Simulation Folder:
 
 EEG Graphing Folder:
 - Used MATLAB to quantify features of an ERP graph.
-  - Quantified the magnitude of a peak in an unfiltered ERP graph during a predefined time window.
-  - Quantified the “mean-peak” (-10/+10 ms) magnitude in an unfiltered ERP graph during a predefined time window.
+  - Quantified the magnitude of a peak in an unfiltered ERP graph in a predefined time window.
+  - Quantified the “mean-peak” (-10/+10 ms) magnitude in an unfiltered ERP graph in a predefined time window.
   - Applied a low-pass filter and repeated the previous two tasks.  
 - Used MATLAB to generate a topographical map that shows peak time latency for each channel during a predefined time window.
 
