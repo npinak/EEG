@@ -15,6 +15,9 @@
   5. Decibel scaling
   6. The spectrogram
 
+**The_Power_Spectrum_(Part_2) Folder:**
+ - I am still working on this analysis.
+
 **The-Event-Related-Potential Folder:**
 
 - ERP analysis using python
