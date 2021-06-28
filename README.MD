@@ -26,7 +26,11 @@
 **The-Event-Related-Potential Folder:**
 
 - ERP analysis using python
-- Contains: Background, Data Analysis, Plotting the ERP, Confidence Intervals (Central Limit Theorem), Confidence Intervals (Bootstrapping)
+- Contains: 
+	1. Background
+	2. Data Analysis 
+	3. Plotting the ERP 
+	4. Confidence Intervals (Central Limit Theorem) 	5. Confidence Intervals (Bootstrapping)
 
 
 # MATLAB
