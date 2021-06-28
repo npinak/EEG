@@ -30,7 +30,8 @@
 	1. Background
 	2. Data Analysis 
 	3. Plotting the ERP 
-	4. Confidence Intervals (Central Limit Theorem) 	5. Confidence Intervals (Bootstrapping)
+	4. Confidence Intervals (Central Limit Theorem)
+	5. Confidence Intervals (Bootstrapping)
 
 
 # MATLAB
