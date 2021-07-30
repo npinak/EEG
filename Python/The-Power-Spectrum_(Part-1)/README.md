@@ -1,4 +1,4 @@
-- Power spectrum data analysis on EEG data. 
+- Power spectrum data analysis on EEG data (Part 1). 
 - Includes these steps:
   1. Visual inspection
   2. Mean, variance, and standard deviation
