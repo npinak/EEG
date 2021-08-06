@@ -2,11 +2,12 @@
 
 - Code of the EEG analysis projects that I've done. Please take a look. 
 - Click on the "Python" or "MATLAB" folder to look at the projects. 
+- Adding more as I complete them!!!
 
 # Python
 
 **The-Power-Spectrum_(Part-1) Folder:**
-- Power spectrum data analysis on EEG data.
+- Power spectrum data analysis on EEG data (Part 1).
 - Includes these steps:
   1. Visual inspection
   2. Mean, variance, and standard deviation
@@ -16,10 +17,13 @@
   6. The spectrogram
 
 **The_Power_Spectrum_(Part_2) Folder:**
-- Please note that I am still working on this
-- So far includes:
-	1. Data Analysis
-	2. Spectral Analysis: The Rectangular Taper and 	Zero Padding
+
+- Power spectrum data analysis on EEG data (Part 2). 
+- Includes these steps:
+  1. Spectral Analysis: The Rectangular Taper and Zero Padding
+  2. Beyond the Rectangular Taper — the Hanning Taper
+  3. Beyond the Hanning Taper — the Multitaper Method
+  4. Confidence Intervals of the Spectrum
 	
 
 
