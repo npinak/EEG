@@ -37,6 +37,10 @@
 	4. Confidence Intervals (Central Limit Theorem)
 	5. Confidence Intervals (Bootstrapping)
 
+**Analysis-of-Coupled-Rhythms Folder:**
+- Analysis to see if 2 ECoG electrode recordings were coupled. 
+
+- Still a work in progress.
 
 # MATLAB
 
