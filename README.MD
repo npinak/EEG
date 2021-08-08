@@ -2,6 +2,7 @@
 
 - Code of the EEG analysis projects that I've done. Please take a look. 
 - Click on the "Python" or "MATLAB" folder to look at the projects. 
+- Projects inspired by: https://mark-kramer.github.io/Case-Studies-Python/intro.html
 - Adding more as I complete them!!!
 
 # Python
