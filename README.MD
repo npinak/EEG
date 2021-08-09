@@ -38,9 +38,17 @@
 	5. Confidence Intervals (Bootstrapping)
 
 **Analysis-of-Coupled-Rhythms Folder:**
+
 - Analysis to see if 2 ECoG electrode recordings were coupled. 
 
-- Still a work in progress.
+- Includes the following steps:
+
+	1. Visual inspection
+	2. Autocovariance and Cross-covariance
+	3. Trial-Averaged Spectrum
+	4. Computing the Coherence
+	5. Visualizing the Phase Difference across Trials
+
 
 # MATLAB
 
