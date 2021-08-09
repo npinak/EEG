@@ -41,6 +41,7 @@
 
 - Analysis to see if 2 ECoG electrode recordings were coupled. 
 
+<<<<<<< HEAD
 - Includes the following steps:
 
 	1. Visual inspection
@@ -49,6 +50,9 @@
 	4. Computing the Coherence
 	5. Visualizing the Phase Difference across Trials
 
+=======
+- Still working on this. 
+>>>>>>> 336af85b7a67aafd485f97e71544e51ff09d6bb9
 
 # MATLAB
 
