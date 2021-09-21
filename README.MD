@@ -6,7 +6,7 @@
 
 # Python
 
-**Tutorial Taken From:** https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource
+**Resource Taken From:** https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource
 
 **The-Power-Spectrum_(Part-1) Folder:**
 - Power spectrum data analysis on EEG data (Part 1).
